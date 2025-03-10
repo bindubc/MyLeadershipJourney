@@ -1,3 +1,5 @@
+https://medium.com/design-bootcamp/i-finally-understand-what-faang-wants-in-a-candidate-0b4638ca5618 
+
 FAANG is an acronym for Facebook, Amazon, Apple, Netflix, and Google.
 
 Disclaimer: I solemnly swear not to brag at every corner that I’m working at Google now. This is the only article I’m mentioning it in. I’m still cool and independent like that — the sunglasses are not just for show, you know.
@@ -11,7 +13,7 @@ Even with these “quirks” — which make me less competitive in the job marke
 
 In this article, I focus on the communication strategies I developed while preparing for the interviews — NOT on the hiring process or the questions I was asked. Although there is no universal resource you can learn from to nail interviews with FAANG, in the case of Google, I found the most useful stuff on Jeff H Sipe’s YouTube channel.
 
-#1: FAANG wants learners, not just “doers”
+# 1: FAANG wants learners, not just “doers”
 One of the most common strategies to approach interview questions is the STAR method (situation-task-action-result). STAR is meant to be used for questions like: “Tell me about a time you…
 
 successfully tackled a task under a tight deadline, or
@@ -39,7 +41,7 @@ you reflect on your actions and
 acknowledge areas for improvement.
 Which, in the eyes of FAANG, makes you a little bit cooler.
 
-#2: FAANG wants positive-thinkers ONLY
+# 2: FAANG wants positive-thinkers ONLY
 Most job interviews naturally steer candidates toward discussing negative aspects of their past:
 
 conflicts,
@@ -56,7 +58,7 @@ Ask positive questions at the end. When it’s your turn to ask questions, focus
 “What’s the most exciting project your team is working on?”
 By shaping your language positively, you leave the interviewer with an impression of you as a resilient, growth-oriented, and simply nice person.
 
-#3: FAANG wants people who respect time limits
+# 3: FAANG wants people who respect time limits
 One of the interview steps at Google is a presentation of your best projects.
 
 You get plenty of time — around 40 minutes — which you spend telling everything awesome about yourself in Google Slides. 40 minutes only seems like a long time.
@@ -67,7 +69,7 @@ When I rehearsed my presentation, I was surprised to find that speaking through 
 
 Another unspoken rule: respect time limits. No matter how friendly the interviewers seem, going over the allotted time isn’t a good look.
 
-#4: FAANG wants people who know how to fail
+# 4: FAANG wants people who know how to fail
 Victories are nice but rather boring. Achievements-only stories can’t fully showcase your problem-solving abilities or adaptability, which are important in big tech. Many top employers want to see how candidates handle setbacks.
 
 One of the most common interview questions is: “Tell me about a time you made a mistake or failed.” While it’s tempting to minimize failures, the best approach is to:
@@ -79,7 +81,7 @@ Prepare the right failure story.
 
 Not too small: “I once forgot to attach a file in an email”. Not too big either, so as not to raise red flags. Just right: “Early in my career, I struggled with stakeholder communication…. I now make sure to… to prevent this.
 
-#5: FAANG wants people who question their actions
+# 5: FAANG wants people who question their actions
 This one is a continuation of a company testing if you’re self-aware enough (which is a professional word for “not stupid”).
 
 Now, you will tell how you managed this or that, and, inevitably, will get this question:
@@ -94,7 +96,7 @@ Be always ready to identify an area for improvement. Pick something that would h
 
 Keep it concrete — don’t just say you’d “improve communication.” Instead, explain how: “I’d implement a clearer feedback loop with stakeholders to catch potential issues earlier in the process.”
 
-#6: FAANG or no FAANG— obsessing is never healthy
+# 6: FAANG or no FAANG— obsessing is never healthy
 It’s 2025, for Neptune’s sake. There are so many things more important than working for a certain company.
 
 At Google, recruiters manually scan CVs without using AI. But the hard truth is that getting contacted comes down to luck.
