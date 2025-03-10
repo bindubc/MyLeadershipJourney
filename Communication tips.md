@@ -21,6 +21,8 @@ killed a mammoth,
 etc.”
 Now, STAR is not very new at all. Moreover, it’s kinda lame. It is a solid way to structure a response, but…
 
+![image](https://github.com/user-attachments/assets/d8bad43e-44dd-45fb-8324-b67fb46b9a89)
+
 But what it doesn’t teach you is that a candidate shouldn’t spend the same amount of time describing the Situation (S) or Task (T) as they do on their Action (A) or Result (R). The task can be explained very simply, and the nuances of a situation — if it matches the context of a question — do not matter at all.
 
 Most of the response should contain information about your actions and learnings from the situation:
